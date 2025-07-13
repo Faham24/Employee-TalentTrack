@@ -1,0 +1,1 @@
+A simple web-based employee management system built using C# and ASP.NET Core. This tool demonstrates full-cycle development of a business application, including backend logic, Razor Pages, and database integration using Entity Framework Core with SQLite.

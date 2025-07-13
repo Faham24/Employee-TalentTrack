@@ -1,0 +1,8 @@
+/Users/faham/EmployeeTalentTrack/EmployeeTalentTrackApp/obj/Debug/net8.0/EmployeeTalentTrackApp.csproj.AssemblyReference.cache
+/Users/faham/EmployeeTalentTrack/EmployeeTalentTrackApp/obj/Debug/net8.0/EmployeeTalentTrackApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/faham/EmployeeTalentTrack/EmployeeTalentTrackApp/obj/Debug/net8.0/EmployeeTalentTrackApp.AssemblyInfoInputs.cache
+/Users/faham/EmployeeTalentTrack/EmployeeTalentTrackApp/obj/Debug/net8.0/EmployeeTalentTrackApp.AssemblyInfo.cs
+/Users/faham/EmployeeTalentTrack/EmployeeTalentTrackApp/obj/Debug/net8.0/EmployeeTalentTrackApp.csproj.CoreCompileInputs.cache
+/Users/faham/EmployeeTalentTrack/EmployeeTalentTrackApp/obj/Debug/net8.0/EmployeeTalentTrackApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/faham/EmployeeTalentTrack/EmployeeTalentTrackApp/obj/Debug/net8.0/EmployeeTalentTrackApp.RazorAssemblyInfo.cache
+/Users/faham/EmployeeTalentTrack/EmployeeTalentTrackApp/obj/Debug/net8.0/EmployeeTalentTrackApp.RazorAssemblyInfo.cs
